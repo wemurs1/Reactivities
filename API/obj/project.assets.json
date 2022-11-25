@@ -2905,11 +2905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/source/repos/UdemyReactivities/Reactivities/API/API.csproj",
+      "projectUniqueName": "/source/repos/Reactivities/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/source/repos/UdemyReactivities/Reactivities/API/API.csproj",
+      "projectPath": "/source/repos/Reactivities/API/API.csproj",
       "packagesPath": "/home/stuart/.nuget/packages/",
-      "outputPath": "/source/repos/UdemyReactivities/Reactivities/API/obj/",
+      "outputPath": "/source/repos/Reactivities/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/stuart/.nuget/NuGet/NuGet.Config"
@@ -2924,11 +2924,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/source/repos/UdemyReactivities/Reactivities/Application/Application.csproj": {
-              "projectPath": "/source/repos/UdemyReactivities/Reactivities/Application/Application.csproj"
+            "/source/repos/Reactivities/Application/Application.csproj": {
+              "projectPath": "/source/repos/Reactivities/Application/Application.csproj"
             },
-            "/source/repos/UdemyReactivities/Reactivities/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/source/repos/UdemyReactivities/Reactivities/Infrastructure/Infrastructure.csproj"
+            "/source/repos/Reactivities/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/source/repos/Reactivities/Infrastructure/Infrastructure.csproj"
             }
           }
         }

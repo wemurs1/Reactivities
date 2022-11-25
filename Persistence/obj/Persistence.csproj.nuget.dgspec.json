@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/source/repos/UdemyReactivities/Reactivities/Persistence/Persistence.csproj": {}
+    "/source/repos/Reactivities/Persistence/Persistence.csproj": {}
   },
   "projects": {
-    "/source/repos/UdemyReactivities/Reactivities/Domain/Domain.csproj": {
+    "/source/repos/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/source/repos/UdemyReactivities/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/source/repos/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/source/repos/UdemyReactivities/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/source/repos/Reactivities/Domain/Domain.csproj",
         "packagesPath": "/home/stuart/.nuget/packages/",
-        "outputPath": "/source/repos/UdemyReactivities/Reactivities/Domain/obj/",
+        "outputPath": "/source/repos/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/stuart/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/source/repos/UdemyReactivities/Reactivities/Persistence/Persistence.csproj": {
+    "/source/repos/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/source/repos/UdemyReactivities/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/source/repos/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/source/repos/UdemyReactivities/Reactivities/Persistence/Persistence.csproj",
+        "projectPath": "/source/repos/Reactivities/Persistence/Persistence.csproj",
         "packagesPath": "/home/stuart/.nuget/packages/",
-        "outputPath": "/source/repos/UdemyReactivities/Reactivities/Persistence/obj/",
+        "outputPath": "/source/repos/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/stuart/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/source/repos/UdemyReactivities/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/source/repos/UdemyReactivities/Reactivities/Domain/Domain.csproj"
+              "/source/repos/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/source/repos/Reactivities/Domain/Domain.csproj"
               }
             }
           }

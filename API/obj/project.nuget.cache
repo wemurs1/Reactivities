@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q6IqZRaRTu9vve/yaQlWZ8lvnvvJJyI7Ag3H8pXeY2JXqdohZgwKhkAGQ4lnA6MtqSm80k/jmdFhwpKJE3UGkg==",
+  "dgSpecHash": "gvWg37ozoNVBg/cy8cvkESyTIznHyNEcj2/p5GzlLoXjxtf08wavu8znGDzjs9V4zqj4v6qPxpyJyiO4bTjBuQ==",
   "success": true,
-  "projectFilePath": "/source/repos/UdemyReactivities/Reactivities/API/API.csproj",
+  "projectFilePath": "/source/repos/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/home/stuart/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/home/stuart/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
