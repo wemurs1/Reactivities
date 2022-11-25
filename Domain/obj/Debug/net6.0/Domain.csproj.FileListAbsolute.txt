@@ -1,0 +1,12 @@
+/source/repos/UdemyReactivities/Reactivities/Domain/bin/Debug/net6.0/Domain.deps.json
+/source/repos/UdemyReactivities/Reactivities/Domain/bin/Debug/net6.0/Domain.dll
+/source/repos/UdemyReactivities/Reactivities/Domain/bin/Debug/net6.0/Domain.pdb
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/Domain.dll
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/refint/Domain.dll
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/Domain.pdb
+/source/repos/UdemyReactivities/Reactivities/Domain/obj/Debug/net6.0/ref/Domain.dll
