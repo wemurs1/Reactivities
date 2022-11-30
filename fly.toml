@@ -1,17 +1,14 @@
-# fly.toml file generated for reactivities-bmy on 2022-11-25T09:23:03Z
+# fly.toml file generated for reactivities-bmy on 2022-11-29T17:48:10Z
 
 app = "reactivities-bmy"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
 
-[build]
-  image = "stuartmurraydev/reactivities:latest"
-
 [env]
-  ASPNETCORE_URLS="http://+:8080"
-  Cloudinary__CloudName="gresham-nisus-ltd"
-  Cloudinary__ApiKey="375919615396898"
+  ASPNETCORE_URLS = "http://+:8080"
+  Cloudinary__ApiKey = "375919615396898"
+  Cloudinary__CloudName = "gresham-nisus-ltd"
 
 [experimental]
   allowed_public_ports = []
