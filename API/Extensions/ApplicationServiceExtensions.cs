@@ -1,6 +1,7 @@
 using Application.Activities;
 using Application.Core;
 using Application.Interfaces;
+using Infrastructure.Email;
 using Infrastructure.Photos;
 using Infrastructure.Security;
 using MediatR;
@@ -66,7 +67,7 @@ namespace API.Extensions
                         .AllowAnyHeader()
                         .AllowCredentials()
                         .WithExposedHeaders("WWW-Authenticate", "Pagination")
-                        .WithOrigins("https://localhost:3000");
+                        .WithOrigins("https://localhost:3000", "https://localhost:5001");
                 });
             });
 
@@ -77,6 +78,8 @@ namespace API.Extensions
             services.AddScoped<IUserAccessor, UserAccessor>();
 
             services.AddScoped<IPhotoAccessor, PhotoAccessor>();
+
+            services.AddScoped<IEmailSender, EmailSender>();
 
             services.Configure<CloudinarySettings>(configuration.GetSection("Cloudinary"));
 
