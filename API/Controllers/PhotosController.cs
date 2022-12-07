@@ -14,7 +14,7 @@ namespace API.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(string id)
         {
-            return HandleResult((await Mediator!.Send(new Delete.Command { Id = id }))!);
+            return HandleResult((await Mediator!.Send(new Application.Photos.Delete.Command { Id = id }))!);
         }
 
         [HttpPost("{id}/setMain")]
